@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Independent research project, funded by Fudan University’s Undergraduate Research Opportunity Program (UROP)\nThis project studies the impact of the 2003 Chinese Government Procurement Law (GPL) on firms’ technological innovation using a difference-in-differences design. The GPL is the first nationwide regulation of government procurement in China and mandated open bidding as the principal form of procurement, fostering a more open and competitive market.\nMy results show that the GPL significantly increased firms’ innovation in procurement-intensive industries, with stronger effects for more efficient firms. The effect is also more pronounced in more corrupt cities, and treated firms increased their R&D investment. These findings are consistent with the interpretation that, after the GPL, efficient firms were more likely to secure contracts and thus had stronger incentives to invest in innovation.\nTo support more granular mechanism analysis in future work, I have constructed a novel contract-level database that links procurement contracts to firm-level outcomes.\n(Working paper draft in progress.)\n\n\n\n\n\n\n\nResearch assistant to Professor Jacob Moscona (MIT)\nIn this ongoing project, I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.\n\n\n\nResearch assistant to Professor Ting Chen (Hong Kong Baptist University)\nFor this project, I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.\n\n\n\nResearch assistant to Professor Xueyue Liu (Fudan University)\nIn this project, I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics.\n\n\n\n\n\nBroadly, I am interested in:\n\nGovernment procurement, public policy, and firm dynamics\n\nTechnology diffusion and innovation in low-carbon and energy-intensive industries\n\nEconomic history and archival data construction\n\nApplied micro-econometrics and data-intensive research designs"
+  },
+  {
+    "objectID": "research.html#independent-research",
+    "href": "research.html#independent-research",
+    "title": "Research",
+    "section": "",
+    "text": "Independent research project, funded by Fudan University’s Undergraduate Research Opportunity Program (UROP)\nThis project studies the impact of the 2003 Chinese Government Procurement Law (GPL) on firms’ technological innovation using a difference-in-differences design. The GPL is the first nationwide regulation of government procurement in China and mandated open bidding as the principal form of procurement, fostering a more open and competitive market.\nMy results show that the GPL significantly increased firms’ innovation in procurement-intensive industries, with stronger effects for more efficient firms. The effect is also more pronounced in more corrupt cities, and treated firms increased their R&D investment. These findings are consistent with the interpretation that, after the GPL, efficient firms were more likely to secure contracts and thus had stronger incentives to invest in innovation.\nTo support more granular mechanism analysis in future work, I have constructed a novel contract-level database that links procurement contracts to firm-level outcomes.\n(Working paper draft in progress.)"
+  },
+  {
+    "objectID": "research.html#research-assistance",
+    "href": "research.html#research-assistance",
+    "title": "Research",
+    "section": "",
+    "text": "Research assistant to Professor Jacob Moscona (MIT)\nIn this ongoing project, I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.\n\n\n\nResearch assistant to Professor Ting Chen (Hong Kong Baptist University)\nFor this project, I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.\n\n\n\nResearch assistant to Professor Xueyue Liu (Fudan University)\nIn this project, I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics."
+  },
+  {
+    "objectID": "research.html#other-interests",
+    "href": "research.html#other-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Broadly, I am interested in:\n\nGovernment procurement, public policy, and firm dynamics\n\nTechnology diffusion and innovation in low-carbon and energy-intensive industries\n\nEconomic history and archival data construction\n\nApplied micro-econometrics and data-intensive research designs"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full CV here:\nDownload CV (PDF)\n\n\n\n\nFudan University – B.S. in Mathematical Economics (expected 2026)\nGPA: 3.88/4.0 (school rank top 5%)\nHarvard University – Visiting Undergraduate Student, Spring 2025\n\n\n\n\n\nHonors Program Overseas Exchange Scholarship (5,000 USD), 2025\n\nXinpu Reading Scholarship, 2023–2024\n\nThird Prize, Fudan University Scholarship for Outstanding Students, 2022–2023\n\nFirst Prize in Mathematics Competition of National College Students, Shanghai Division (ranked 7th among non-mathematics participants), 2023\n\nSecond Prize, “Qie Wen Jin Si Cup” Fudan University Academic Innovation Challenge, 2024\n\n\n\n\n\nLanguages: Mandarin Chinese (native); English (fluent; GRE 330, TOEFL 111)\n\nProgramming & Tools: Stata, Python, SQL, LaTeX"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Fudan University – B.S. in Mathematical Economics (expected 2026)\nGPA: 3.88/4.0 (school rank top 5%)\nHarvard University – Visiting Undergraduate Student, Spring 2025"
+  },
+  {
+    "objectID": "cv.html#selected-honors-and-awards",
+    "href": "cv.html#selected-honors-and-awards",
+    "title": "CV",
+    "section": "",
+    "text": "Honors Program Overseas Exchange Scholarship (5,000 USD), 2025\n\nXinpu Reading Scholarship, 2023–2024\n\nThird Prize, Fudan University Scholarship for Outstanding Students, 2022–2023\n\nFirst Prize in Mathematics Competition of National College Students, Shanghai Division (ranked 7th among non-mathematics participants), 2023\n\nSecond Prize, “Qie Wen Jin Si Cup” Fudan University Academic Innovation Challenge, 2024"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Languages: Mandarin Chinese (native); English (fluent; GRE 330, TOEFL 111)\n\nProgramming & Tools: Stata, Python, SQL, LaTeX"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "这里会是我不定期更新的一些小笔记、想法和研究随笔。\n\n\n\nPosted on 28 November 2025\nWelcome to my website!\nI created this site to collect my research, working papers, and notes in one place. Over time, I plan to share short posts about topics that interest me, such as:\n\ngovernment procurement and firm innovation\n\ntechnology diffusion and low-carbon transition\n\ndata work and empirical methods (Stata / Python / SQL)\n\nsome thoughts from courses, seminars, or readings\n\nThank you for visiting — I hope this site can serve both as my research portfolio and as a small notebook of ideas in progress."
+  },
+  {
+    "objectID": "blog.html#welcome-to-my-website",
+    "href": "blog.html#welcome-to-my-website",
+    "title": "Blog",
+    "section": "",
+    "text": "Posted on 28 November 2025\nWelcome to my website!\nI created this site to collect my research, working papers, and notes in one place. Over time, I plan to share short posts about topics that interest me, such as:\n\ngovernment procurement and firm innovation\n\ntechnology diffusion and low-carbon transition\n\ndata work and empirical methods (Stata / Python / SQL)\n\nsome thoughts from courses, seminars, or readings\n\nThank you for visiting — I hope this site can serve both as my research portfolio and as a small notebook of ideas in progress."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: yiqingyuan0909 [at] gmail [dot] com\nAffiliation:\nSchool of Economics, Fudan University\nYou can also reach me via:\n\n(Optional) Google Scholar: link coming soon\n\n(Optional) GitHub: link coming soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Yiqing Yuan\nStudent in Mathematical Economics, Fudan University\nVisiting Undergraduate, Harvard University (Spring 2025)\nResearch interests:\n\ngovernment procurement and firm innovation;\n\ntechnology diffusion and low-carbon energy;\neconomic history.\n\nDownload CV"
+  }
+]

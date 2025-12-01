@@ -1,0 +1,27 @@
+---
+title: "Home"
+---
+
+::: {.columns}
+::: {.column width="60%"}
+
+# Yiqing Yuan
+
+_Student in Mathematical Economics, Fudan University_  
+_Visiting Undergraduate, Harvard University (Spring 2025)_
+
+**Research interests:** 
+
+- government procurement and firm innovation;  
+- technology diffusion and low-carbon energy; 
+- economic history.
+
+[Download CV](cv.pdf){.btn}
+
+:::
+
+::: {.column width="40%"}
+![](img/yiqing.jpg){width=100%}
+:::
+:::
+

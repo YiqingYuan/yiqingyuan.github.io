@@ -1,0 +1,24 @@
+---
+title: "Blog"
+---
+
+# Blog
+
+这里会是我不定期更新的一些小笔记、想法和研究随笔。
+
+---
+
+## Welcome to my website!
+
+*Posted on 28 November 2025*
+
+Welcome to my website!  
+
+I created this site to collect my research, working papers, and notes in one place. Over time, I plan to share short posts about topics that interest me, such as:
+
+- government procurement and firm innovation  
+- technology diffusion and low-carbon transition  
+- data work and empirical methods (Stata / Python / SQL)  
+- some thoughts from courses, seminars, or readings
+
+Thank you for visiting — I hope this site can serve both as my research portfolio and as a small notebook of ideas in progress.
