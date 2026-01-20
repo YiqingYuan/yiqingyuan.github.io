@@ -1,8 +1,7 @@
 ---
 title: "Research"
+title-block-style: none
 ---
-
-# Research
 
 ## Independent Research
 

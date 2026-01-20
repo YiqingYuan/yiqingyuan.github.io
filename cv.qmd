@@ -1,8 +1,7 @@
 ---
 title: "CV"
+title-block-style: none
 ---
-
-# Curriculum Vitae
 
 You can download my full CV here:
 
@@ -13,7 +12,7 @@ You can download my full CV here:
 ## Education
 
 - **Fudan University** – B.S. in Mathematical Economics (expected 2026)  
-  GPA: 3.88/4.0 (school rank top 5%)
+  GPA: 3.88/4.0 (program rank 2/23,school rank top 5%)
 - **Harvard University** – Visiting Undergraduate Student, Spring 2025  
 
 ## Selected Honors and Awards

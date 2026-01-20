@@ -1,8 +1,9 @@
+
 ---
 title: "Blog"
+title-block-style: none
 ---
 
-# Blog
 
 这里会是我不定期更新的一些小笔记、想法和研究随笔。
 

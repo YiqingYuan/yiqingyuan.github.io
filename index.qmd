@@ -1,27 +1,133 @@
 ---
-title: "Home"
+title: ""
+pagetitle: "Yiqing Yuan"
+title-block-style: none
 ---
 
-::: {.columns}
-::: {.column width="60%"}
+<div id="top"></div>
+
+::: {class="hero"}
+::: {class="hero-text"}
 
 # Yiqing Yuan
 
-_Student in Mathematical Economics, Fudan University_  
-_Visiting Undergraduate, Harvard University (Spring 2025)_
+_B.S. in Mathematical Economics, Fudan University (2022–2026)_
 
-**Research interests:** 
+I aim to become an applied microeconomist to study technological progress, especially in developing countries.
 
-- government procurement and firm innovation;  
-- technology diffusion and low-carbon energy; 
-- economic history.
+**Research interests**  
+<span class="interest-tags">
+  <span class="tag">Innovation</span>
+  <span class="tag">Development Economics</span>
+  <span class="tag">Economic History</span>
+</span>
 
-[Download CV](cv.pdf){.btn}
+
+[Download CV](cv.pdf){.btn .btn-primary}
+[Email](mailto:yiqingyuan0909@gmail.com){.btn .btn-outline-secondary}
 
 :::
+::: {class="hero-media"}
 
-::: {.column width="40%"}
-![](img/yiqing.jpg){width=100%}
+![](img/yiqing.jpg){fig-alt="Portrait of Yiqing Yuan" class="hero-photo"}
+
 :::
 :::
 
+---
+
+
+
+## Research {#research}
+
+### Independent Research
+
+#### Government Procurement Law and Firm Innovation
+
+**Funded by Fudan University’s Undergraduate Research Opportunity Program (UROP), Second Prize in Fudan University's Academic Innovation Challenge**  
+
+This paper examines the impact of the 2003 Chinese Government Procurement Law (GPL) on
+firms’ technological innovation, using a DID design. The GPL is the first nation-wide regulation
+of government procurement, which mandated open bidding as the principal form, promoting an
+open and competitive procurement market. The results indicate that the GPL significantly increased
+firms’ patent applications and R&D investment in procurement-intensive industries. The effects
+are greater for more efficient firms, and in more corrupt cities. This pattern is consistent with the
+objective of the GPL, which was to promote an open procurement market and reallocate government
+contracts toward more efficient firms, particularly in places that were previously more corrupt and
+distorted. By doing so, the GPL has strengthened firms’ incentives to invest in R&D, and fostered
+innovation growth. I further propose a research design to investigate the underlying mechanisms of
+how obtaining government contracts affects subsequent innovation, using a novel contract dataset
+
+[*(Working paper draft)*](working_paper.pdf)
+
+---
+
+### Research Assistance
+
+#### Technology Diffusion of Low-Carbon Energy Technology  
+*Research assistant to Professor Jacob Moscona (MIT)*  
+
+In this project, I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.
+
+**Project Reports:**
+- [Data Analysis of Low-Carbon Energy  Technology Diffusion](jacob/summary1008_data_replication.pdf)
+- [Different Types of Solar Technology](jacob/Different%20types%20of%20Solar.pdf)
+- [Battery Technology Summary](jacob/Summary_Battery.pdf)
+- [Solar Technology Summary](jacob/Summary_Solar.pdf)
+
+#### Archival Data on China’s Fuel and Chemical Industry, 1962–1995  
+*Research assistant to Professor Ting Chen (Hong Kong Baptist University)*  
+
+For this project, I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.
+
+#### Environmental Regulation and Firms’ Low-Carbon Transition  
+*Research assistant to Professor Xueyue Liu (Fudan University)*  
+
+In this project, I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics.
+
+---
+
+## Honors and Awards {#honors}
+
+- **Honors Program Overseas Exchange Scholarship** (5k USD), 2025  
+- **Xinpu Reading Scholarship**, 2023–2024  
+- **Third Prize, Fudan University Scholarship for Outstanding Students**, 2022–2023  
+- **First Prize, Mathematics Competition of National College Students (Shanghai Division)**, 2023  
+  *(Ranked 7th among non-mathematics participants)*  
+- **Second Prize, “Qie Wen Jin Si Cup” (Fudan University Academic Innovation Challenge)**, 2024  
+
+
+---
+
+### Personal Interests
+
+- Running
+- Yoga
+- Yue Opera
+
+---
+
+<!-- ## CV {#cv}
+
+<iframe src="cv.pdf" width="100%" height="900" style="border: 1px solid #e5e7eb; border-radius: 12px;"></iframe>
+
+<p style="margin-top: 0.8rem;">
+  <a href="cv.pdf" class="btn btn-primary">Download CV (PDF)</a>
+</p>
+
+--- -->
+
+## Blog {#blog}
+
+
+*This part is still in progress and will be here soon!*
+
+<!-- 之后你如果启用 Quarto blog listing，我可以帮你把这里自动列出最近 N 篇 -->
+
+---
+
+## Contact {#contact}
+
+- **Email:** yiqingyuan0909@gmail.com  
+- **GitHub:** https://github.com/YiqngYuan  
+- [Download my cv here](cv.pdf)
