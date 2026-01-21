@@ -1,0 +1,19 @@
+﻿---
+title: "Blog"
+listing:
+  id: posts
+  contents:
+    - "./posts/2025-05-30-solar/index.qmd"
+    - "./posts/2025-09-30-battery/index.qmd"
+    - "./posts/2025-10-10-data-replication/index.qmd"
+    - "./posts/2026-01-21-first-post/index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  page-size: 10
+---
+
+::: {#posts}
+:::
+
+Sorry, it is under maintenance...

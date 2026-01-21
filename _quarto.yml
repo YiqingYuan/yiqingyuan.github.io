@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Yiqing Yuan"
   navbar:
@@ -10,10 +11,10 @@ website:
         href: index.qmd#top
       - text: Research
         href: index.qmd#research
-      - text: Honors & Awards
-        href: index.qmd#honors
+      - text: cv
+        href: index.qmd#cv
       - text: Blog
-        href: index.qmd#blog
+        href: blog/
       - text: Contact
         href: index.qmd#contact
 
@@ -24,3 +25,7 @@ format:
       - styles.scss
     toc: false
     smooth-scroll: true
+    grid:
+      body-width: 1400px
+      margin-width: 0px
+      gutter-width: 2rem

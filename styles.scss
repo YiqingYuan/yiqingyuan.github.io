@@ -26,11 +26,6 @@ $primary: #111111;
 }
 
 
-/* 让全站内容在大屏也居中、且更宽一点 */
-.page-columns {
-  max-width: 1100px;  /* 你可以试 980 / 1100 / 1200 */
-}
-
 /* Hero: 默认上下排列（手机友好） */
 .hero {
   display: flex;
@@ -53,16 +48,13 @@ $primary: #111111;
 /* 图片尺寸与观感 */
 .hero-photo {
   width: 100%;
-  max-width: 420px;      /* 控制大屏别太巨大 */
+  max-width: none;      /* 控制大屏别太巨大 */
   border-radius: 14px;
   display: block;
   margin-left: auto;     /* 图片在右侧列里靠右一点，更清爽 */
 }
 
 
-.page-columns {
-  max-width: 980px;
-}
 
 .navbar {
   padding-top: 0.8rem;
@@ -83,4 +75,28 @@ h2 {
 /* 防止锚点跳转被顶部导航栏挡住 */
 :target {
   scroll-margin-top: 90px;
+}
+
+.page-columns {
+  max-width: 1400px;     // 可调：1400–1800 都合理
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#quarto-content {
+  padding-left: 2.0rem;
+  padding-right: 3.2rem;
+}
+
+.hero-subtitle{
+  opacity: 0.78;
+  font-size: 1.05rem;
+  margin-top: 0.25rem;
+}
+
+.hero-lead{
+  font-size: 1.15rem;
+  line-height: 1.65;
+  margin-top: 0.9rem;
+  margin-bottom: 1.2rem;
 }

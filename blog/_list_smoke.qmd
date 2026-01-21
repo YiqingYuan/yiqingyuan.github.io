@@ -1,0 +1,4 @@
+---
+title: "Listing smoke test"
+listing: default
+---

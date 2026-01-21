@@ -9,18 +9,25 @@ title-block-style: none
 ::: {class="hero"}
 ::: {class="hero-text"}
 
+::: {.hero-text}
 # Yiqing Yuan
 
-_B.S. in Mathematical Economics, Fudan University (2022–2026)_
+::: {.hero-subtitle}
+B.S. in Mathematical Economics, Fudan University (2022–2026)
+:::
 
+::: {.hero-lead}
 I aim to become an applied microeconomist to study technological progress, especially in developing countries.
-
+:::
+:::
 **Research interests**  
 <span class="interest-tags">
   <span class="tag">Innovation</span>
   <span class="tag">Development Economics</span>
   <span class="tag">Economic History</span>
+  <span class="tag">Political Economics</span>
 </span>
+
 
 
 [Download CV](cv.pdf){.btn .btn-primary}
@@ -67,27 +74,46 @@ how obtaining government contracts affects subsequent innovation, using a novel 
 #### Technology Diffusion of Low-Carbon Energy Technology  
 *Research assistant to Professor Jacob Moscona (MIT)*  
 
-In this project, I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.
+I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.
 
 **Project Reports:**
-- [Data Analysis of Low-Carbon Energy  Technology Diffusion](jacob/summary1008_data_replication.pdf)
-- [Different Types of Solar Technology](jacob/Different%20types%20of%20Solar.pdf)
-- [Battery Technology Summary](jacob/Summary_Battery.pdf)
-- [Solar Technology Summary](jacob/Summary_Solar.pdf)
+- [Low-Carbon Energy Technology Diffusion](/blog/posts/2025-10-10-data-replication/)
+- [Solar Technology: Industry Evolution](/blog/posts/2025-05-30-solar/)
+- [A Mindmap: Different Types of Solar Technology](jacob/Different%20types%20of%20Solar.pdf)
+- [Battery Technology and Cost Reduction](/blog/posts/2025-09-30-battery/)
 
 #### Archival Data on China’s Fuel and Chemical Industry, 1962–1995  
 *Research assistant to Professor Ting Chen (Hong Kong Baptist University)*  
 
-For this project, I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.
+I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.
 
 #### Environmental Regulation and Firms’ Low-Carbon Transition  
 *Research assistant to Professor Xueyue Liu (Fudan University)*  
 
-In this project, I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics.
+I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics.
 
 ---
 
-## Honors and Awards {#honors}
+## cv {#cv}
+[View as PDF](cv.pdf){.btn .btn-outline-secondary}
+
+### Education 
+
+- **Fudan University** (Sep 2022 – Jun 2026 expected)  
+  B.S. in Mathematical Economics  
+  - GPA: 3.85/4.0 (class rank 2/23; school rank top 5%)
+
+- **Harvard University** (Jan 2025 – May 2025)  
+  Visiting Undergraduate Student
+
+
+### Coursework 
+
+- **Mathematics & Statistics:** Introductory Real Analysis; Stochastic Processes; Probability Theory and Mathematical Statistics; Differential Equations; Linear Algebra; Advanced Mathematics  
+ - **Economics:** Econometrics; Econometric Analysis of Cross Section and Panel Data; Applied Time Series Analysis; Intermediate Microeconomics; Macroeconomics; Corporate Finance; International Economics; Public Economics; Development Economics; Economic History; [Theoretical and Empirical Perspectives of Entrepreneurship (PhD)](https://www.hbs.edu/faculty/Pages/item.aspx?teaching=113); [Political Economy: Institution and Development (PhD)](https://economics.mit.edu/sites/default/files/inline-files/syllabus_773_2025.pdf)
+
+
+### Honors and Awards 
 
 - **Honors Program Overseas Exchange Scholarship** (5k USD), 2025  
 - **Xinpu Reading Scholarship**, 2023–2024  
@@ -97,37 +123,40 @@ In this project, I assisted with a study on environmental regulation and firms�
 - **Second Prize, “Qie Wen Jin Si Cup” (Fudan University Academic Innovation Challenge)**, 2024  
 
 
+### Volunteer Work 
+
+- **Winter Teaching Program, Jinyan Primary School**, 01/2024 – 02/2024  
+  Taught primary-school Math Olympiad classes; cultivated students’ interest in mathematics.  
+- **Alumni Outreach, Shengzhou High School**, 01/2024 – 02/2024  
+  Organized alumni to introduce Fudan University and share application/college-life experiences.  
+- **“Letters from Afar” Pen-Pal Program**, 04/2024 – 06/2024  
+  Exchanged letters with high school students; shared study advice and broader perspectives.  
+
+
+### Skills 
+
+- **Languages:** Mandarin Chinese (native), English (fluent)  
+- **Computer:** Stata, Python, SQL, LaTeX  
+
+
+### Personal Interests 
+
+- Running  
+- Yoga  
+- Yue Opera  
+- Photography  
+
 ---
 
-### Personal Interests
-
-- Running
-- Yoga
-- Yue Opera
-
----
-
-<!-- ## CV {#cv}
-
-<iframe src="cv.pdf" width="100%" height="900" style="border: 1px solid #e5e7eb; border-radius: 12px;"></iframe>
-
-<p style="margin-top: 0.8rem;">
-  <a href="cv.pdf" class="btn btn-primary">Download CV (PDF)</a>
-</p>
-
---- -->
 
 ## Blog {#blog}
 
-
-*This part is still in progress and will be here soon!*
-
-<!-- 之后你如果启用 Quarto blog listing，我可以帮你把这里自动列出最近 N 篇 -->
+**[Browse all posts →](blog/)**
 
 ---
 
 ## Contact {#contact}
 
 - **Email:** yiqingyuan0909@gmail.com  
-- **GitHub:** https://github.com/YiqngYuan  
-- [Download my cv here](cv.pdf)
+- **GitHub:** https://github.com/YiqingYuan  
+- **Wechat:** riqing12345

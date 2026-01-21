@@ -1,0 +1,164 @@
+---
+title: "Global Innovation and Technology Transfer in Low-Carbon Transition"
+subtitle: "Data Analysis using PATSTAT Database"
+date: 2025-10-10
+description: >-
+  This post summarizes and visualizes key patterns in low-carbon energy innovation
+  and international technology transfer in past decades, mainly based on
+  PATSTAT data.
+categories: [research]
+image: cover.jpg
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    grid:
+      margin-width: 260px
+      gutter-width: 0.5rem
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+## Overview
+
+This post presents a research summary based on my data replication project using
+**PATSTAT (Autumn 2024 edition)**, focusing on **low-carbon energy (LCE) technologies**
+and their **international transfer patterns**.
+
+The full report is available here:
+
+👉 **[Download the full replication report (PDF)](report.pdf)**
+
+Below is an AI-generated overview of my report.
+
+---
+
+## What Is an Innovation and a Transfer?
+
+- **Innovation** is defined at the level of a *simple patent family*, following
+  Dechezleprêtre et al. (2011) and subsequent literature.
+- **Inventor country** is proxied by the priority patent authority.
+- **Technology transfer** occurs when a patent family is filed in at least one authority
+  different from its priority authority, forming an *international patent family (IPF)*.
+
+These definitions allow consistent global comparisons over a long time horizon
+(1900–2022).
+
+---
+
+## Data Coverage
+
+- **Source**: PATSTAT (Autumn 2024, EPO)
+- **Scope**:
+  - ~4.9 million low-carbon energy inventions
+  - 96 patent authorities
+- **Time window**:
+  - Innovation trends: 1990–2020
+  - Transfer dynamics: 1900–2022
+
+A major challenge is missing inventor-location information. I adopt a baseline method
+from the literature and implement an adjusted imputation strategy using subsequent filings.
+
+---
+
+## Global Trends in Low-Carbon Innovation
+
+### Innovation by Inventor Country
+
+The first pattern is the **rapid take-off of East Asian innovation**, especially China,
+since the early 2000s.
+
+Key facts:
+- China overtakes all other countries in cumulative LCE inventions after 2010.
+- Japan and Korea also show sustained growth.
+- Most developing countries remain far behind in absolute innovation counts.
+
+*(Corresponds to Figure 1 in the PDF report.)*
+
+---
+
+### Innovation by Technology Field
+
+LCE inventions are grouped into three major fields:
+- **Energy supply**
+- **End-use technologies**
+- **Enabling technologies**
+
+Across all three fields:
+- China’s growth is broad-based rather than field-specific.
+- Enabling technologies (e.g. batteries, smart grids) expand particularly fast after 2005.
+
+---
+
+## How Often Do Technologies Transfer Internationally?
+
+### Aggregate Transfer Rates
+
+Despite strong growth in innovation, **transfer rates are far from universal**.
+
+Main observations:
+- Only a fraction of inventions become international patent families.
+- Transfer rates peak in the mid–20th century and decline afterward.
+- Enabling technologies show consistently higher transfer rates than energy supply.
+
+*(See Figure 4 in the PDF.)*
+
+---
+
+### Transfer by Technology Subclass
+
+At a more granular level:
+- Batteries, hydrogen, and CCUS exhibit relatively high transfer rates.
+- Many end-use technologies remain largely domestic.
+
+This suggests that **technology characteristics**, not just country size, shape diffusion.
+
+---
+
+## Who Transfers to Whom?
+
+### Transfers Between Income Groups
+
+A striking asymmetry emerges:
+- Most transfers occur **within high-income countries**.
+- Transfers from high-income to middle-income countries increase over time.
+- Transfers involving low-income countries remain extremely rare.
+
+Even in recent decades, South–South and North–South transfers are limited.
+
+---
+
+## China’s Role in Global Technology Transfer
+
+China plays a growing role in global transfers, but with an important caveat:
+
+- China’s outbound transfers rise mainly because China innovates more.
+- The *structure* of destinations (high vs. middle income) remains relatively stable.
+- China does not disproportionately redirect transfers toward low-income countries.
+
+This suggests scale effects dominate structural change.
+
+---
+
+## Why This Matters
+
+These findings highlight a core tension in climate innovation:
+- Innovation is increasingly global.
+- Diffusion remains highly uneven.
+
+Understanding **why technologies fail to transfer**—despite clear global benefits—
+is central to designing effective climate and industrial policies.
+
+---
+
+## What Comes Next
+
+This replication is the foundation for ongoing work on:
+- Barriers to international technology diffusion
+- The role of institutions and market size
+- China’s position in global innovation networks
+
+Future extensions will integrate original patent-office data
+and explore policy-induced changes in transfer patterns.
