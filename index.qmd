@@ -31,7 +31,7 @@ I aim to become an applied microeconomist to study technological progress, espec
 
 
 [Download CV](cv.pdf){.btn .btn-primary}
-[Email](mailto:yiqingyuan0909@gmail.com){.btn .btn-outline-secondary}
+[Email](mailto:yiqingyuan0909@gmail.com?subject=Contact from Website){.btn .btn-outline-secondary}
 
 :::
 ::: {class="hero-media"}
@@ -51,51 +51,49 @@ I aim to become an applied microeconomist to study technological progress, espec
 
 #### Government Procurement Law and Firm Innovation
 
-**Funded by Fudan University’s Undergraduate Research Opportunity Program (UROP), Second Prize in Fudan University's Academic Innovation Challenge**  
+*Funded by Fudan University’s Undergraduate Research Opportunity Program (UROP), Second Prize in Fudan University's Academic Innovation Challenge*
 
-This paper examines the impact of the 2003 Chinese Government Procurement Law (GPL) on
-firms’ technological innovation, using a DID design. The GPL is the first nation-wide regulation
-of government procurement, which mandated open bidding as the principal form, promoting an
-open and competitive procurement market. The results indicate that the GPL significantly increased
-firms’ patent applications and R&D investment in procurement-intensive industries. The effects
-are greater for more efficient firms, and in more corrupt cities. This pattern is consistent with the
-objective of the GPL, which was to promote an open procurement market and reallocate government
-contracts toward more efficient firms, particularly in places that were previously more corrupt and
-distorted. By doing so, the GPL has strengthened firms’ incentives to invest in R&D, and fostered
-innovation growth. I further propose a research design to investigate the underlying mechanisms of
-how obtaining government contracts affects subsequent innovation, using a novel contract dataset
+This paper examines the impact of the 2003 Chinese Government Procurement Law (GPL) on firms’ technological innovation, using a DID design. The GPL is the first nation-wide regulation of government procurement, which mandated open bidding as the principal form, promoting an open and competitive procurement market. The results indicate that the GPL significantly increased firms’ patent applications and R&D investment in procurement-intensive industries. The effects
+are greater for more efficient firms, and in more corrupt cities. This pattern is consistent with the objective of the GPL, which was to promote an open procurement market and reallocate government contracts toward more efficient firms, particularly in places that were previously more corrupt and
+distorted. By doing so, the GPL has strengthened firms’ incentives to invest in R&D, and fostered innovation growth. 
 
-[*(Working paper draft)*](working_paper.pdf)
+[*(draft)*](working_paper.pdf)
+
+#### Winning Government Contracts and Firm Innovation: Evidence from Close Auctions
+
+This project proposes to study how obtaining government procurement contracts affects firms’ subsequent innovation. Using a novel contract-level dataset from China, I exploit close auctions in which winners and runners-up receive nearly identical evaluation scores, generating quasi-random variation in contract awards. Focusing on firms winning their first government contract, I plan to implement an event-study design to examine post-award innovation dynamics and explore potential mechanisms, including signaling effects, capital provision, and political connections. The study aims to shed light on the role of public procurement as an indirect instrument of innovation policy.
+
+[*(draft)*](research_proposal.pdf)
 
 ---
 
 ### Research Assistance
 
-#### Technology Diffusion of Low-Carbon Energy Technology  
-*Research assistant to Professor Jacob Moscona (MIT)*  
+#### Diffusion of Low-Carbon Energy Technology  
+*Research assistant to Professor [Jacob Moscona (MIT)](https://economics.mit.edu/people/faculty/jacob-moscona)*  
 
-I constructed a comprehensive patent dataset with over 130 million observations using SQL and Python, and conducted data analysis and visualization on technology transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.
+I constructed a comprehensive patent dataset from [PATSNAP](https://www.patsnap.com/) and [PATSTAT] (https://www.epo.org/en/searching-for-patents/business/patstat) with over 130 million observations using SQL and Python; and conducted data analysis and visualization on patent transfer patterns. I also carried out in-depth research on low-carbon energy industries, including solar PV and battery technologies, focusing on potential technology mismatches between rich and poor countries, and distinctive features of China’s cost reduction and innovation dynamics.
 
 **Project Reports:**
-- [Low-Carbon Energy Technology Diffusion](/blog/posts/2025-10-10-data-replication/)
-- [Solar Technology: Industry Evolution](/blog/posts/2025-05-30-solar/)
-- [A Mindmap: Different Types of Solar Technology](jacob/Different%20types%20of%20Solar.pdf)
-- [Battery Technology and Cost Reduction](/blog/posts/2025-09-30-battery/)
+- [Data Analysis on Patent Transfers](/blog/posts/2025-10-10-data-replication/)
+- [The Report of Solar Industry](/blog/posts/2025-05-30-solar/)
+- [A Mindmap: Different Types of Solar Technology](mindmap_solar.pdf)
+- [The Report of Battery Industry](/blog/posts/2025-09-30-battery/)
 
 #### Archival Data on China’s Fuel and Chemical Industry, 1962–1995  
-*Research assistant to Professor Ting Chen (Hong Kong Baptist University)*  
+*Research assistant to Professor [Ting Chen (Hong Kong Baptist University)](https://www.chenting.info/)*  
 
-I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset will be used to study the economic effects of China’s reform and opening-up.
+I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Industry yearbooks (1962–1995). I designed and implemented a data-cleaning pipeline that combines locally hosted LLM parsing, rule-based standardisation, and edit-distance–based matching to harmonise variables and firm names across years. I then linked yearbook firms to the 1985 and 1995 Industrial Census data to enrich the panel with additional firm characteristics. This archival dataset traced the industrial evolution of Chinese fuel and chemical industry, which could also be used to study the economic effects of China’s reform and opening-up in 1978.
 
 #### Environmental Regulation and Firms’ Low-Carbon Transition  
-*Research assistant to Professor Xueyue Liu (Fudan University)*  
+*Research assistant to Professor [Xueyue Liu (Fudan University)](https://allenxyliu.github.io/)*  
 
-I assisted with a study on environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network (O*NET) database. This work deepened my experience working with large, detailed occupational-task data and empirical analysis in environmental economics.
+I assisted with a National Natural Science Foundation project on China's environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network ([O*NET](https://www.onetcenter.org/)) database. 
 
 ---
 
-## cv {#cv}
-[View as PDF](cv.pdf){.btn .btn-outline-secondary}
+## CV {#cv}
+[View as PDF](cv.pdf)
 
 ### Education 
 
@@ -115,7 +113,7 @@ I assisted with a study on environmental regulation and firms’ low-carbon tran
 
 ### Honors and Awards 
 
-- **Honors Program Overseas Exchange Scholarship** (5k USD), 2025  
+- **Honors Program Overseas Exchange Scholarship (5k USD)**, 2025  
 - **Xinpu Reading Scholarship**, 2023–2024  
 - **Third Prize, Fudan University Scholarship for Outstanding Students**, 2022–2023  
 - **First Prize, Mathematics Competition of National College Students (Shanghai Division)**, 2023  
@@ -135,8 +133,8 @@ I assisted with a study on environmental regulation and firms’ low-carbon tran
 
 ### Skills 
 
-- **Languages:** Mandarin Chinese (native), English (fluent)  
-- **Computer:** Stata, Python, SQL, LaTeX  
+- **Languages:** Mandarin Chinese (native), English (fluent, GRE V160+Q170, TOEFL 111)  
+- **Computer:** Stata, Python, SQL, R, LaTeX  
 
 
 ### Personal Interests 

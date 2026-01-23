@@ -122,11 +122,11 @@ The cell temperature depends on ambient conditions (temperature, wind speed, sur
 
 ### **3.1 Cost reduction and China's dominance in all steps of production**
 
-![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image.png)(image%209.png)
-
-![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image.png)(image%2010.png)
-
-![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image.png)(image%2011.png)
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
+  <img src="image9.png" alt="" style="flex:1 1 45%;max-width:49%;height:auto;border:0;" />
+  <img src="image10.png" alt="" style="flex:1 1 45%;max-width:49%;height:auto;border:0;" />
+</div>
+![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image11.png)
 
 ### **3.2 Appropriate products for developing countries for its convenience to use, lower cost, and availability of solar resources:**
 
@@ -151,11 +151,23 @@ The cell temperature depends on ambient conditions (temperature, wind speed, sur
 
 **Geothermal and marine energy development** declined sharply in 2015 amid **financial constraints**…**High upfront costs of feasibility and exploration, complex technical requirements and logistical challenges** deter most investments .
 
-**(Accumulative)                                                                                                                        (Additional)**
-
-![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image.png)(image%2012.png)
-
-![Source: [IRENA](https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023)](image.png)(image%2013.png)
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
+  <figure style="flex:1 1 45%;max-width:49%;margin:0;">
+    <img src="image12.png" alt="Accumulative" style="width:100%;height:auto;border:0;" />
+    <figcaption style="font-size:0.95em;color:#444;margin-top:0.4rem;text-align:center;">
+      <strong>Accumulative</strong>
+    </figcaption>
+  </figure>
+  <figure style="flex:1 1 45%;max-width:49%;margin:0;">
+    <img src="image13.png" alt="Additional" style="width:100%;height:auto;border:0;" />
+    <figcaption style="font-size:0.95em;color:#444;margin-top:0.4rem;text-align:center;">
+      <strong>Additional</strong>
+    </figcaption>
+  </figure>
+</div>
+<p style="font-size:0.9em;color:#666;text-align:center;margin-top:0.5rem;">
+  Source: <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jan/IRENA_SIDS_LHI_progress_2025.pdf">https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jan/IRENA_SIDS_LHI_progress_2025.pdf</a>
+</p>
 
 ### 3.3 How does China reduce cost?
 
