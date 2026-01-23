@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blog"
 listing:
   contents: "posts/*/index.qmd"
@@ -7,8 +7,3 @@ listing:
   categories: true
   page-size: 10
 ---
-
-::: {#posts}
-:::
-
-Sorry, it is under maintenance...

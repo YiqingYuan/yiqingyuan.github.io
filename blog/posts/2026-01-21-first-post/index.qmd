@@ -2,8 +2,8 @@
 title: "Welcome to My Blog"
 date: 2026-01-21
 description: >-
-  My blog actually has a name "Your Query", and was firstly used in my WeChat public account
-  to share my thoughts.
+  My blog, called "YourQuery," was originally a WeChat public account where I shared 
+  thoughts on my research, personal interests, and creative writing.
 categories: [memo]
 image: cover_blogpage.png
 execute:
@@ -12,6 +12,6 @@ execute:
   message: false
 ---
 
-Welcome to my blog!  It actually has a name Your Query ("你怎样想" in Chinese, and YQ corresponds to the abbreviation of my name "Yiqing"). It was firstly used as my WeChat public account to share my thoughts, but has rested for a long time lol.
+Welcome to my blog! It actually has a name, "YourQuery" ("你怎样想" in Chinese, and YQ is the abbreviation of my name "Yiqing"). It was first used as my WeChat public account to share my thoughts, but has been resting for a long time lol. Now I've decided to revive it here on my website, where I can share my research ideas, progress, and any creative endeavors :)
 
-![Cover image](cover.png)
+![](cover.png)

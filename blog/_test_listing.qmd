@@ -1,7 +1,0 @@
----
-title: "TEST LISTING"
-listing:
-  contents: posts
-  recursive: true
-  type: default
----

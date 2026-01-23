@@ -6,6 +6,7 @@ description: >-
   This report tries to understand how China develops its electric vehicle industry,
   especially how it advances the battery technologies from scratch.
 categories: [research]
+image: cover.png
 execute:
   echo: false
   warning: false
@@ -82,3 +83,11 @@ In the start-up stage of China’s lithium-battery industry, when capital was sc
 **Besides large-scale production, learning by doing is also accelerated by backward spillovers from foreign customers.** For example, CATL’s first major breakthrough emerged from its collaboration with BMW, where the two firms assembled a joint development team to interpret and implement battery manufacturing standards. Although CATL lacked automotive experience at the time, the partnership taught it to design and build packs to vehicle-level requirements, shifting its mindset from battery maker to car-centric supplier. A second example is EVE Energy (Yiwei Lileng, 亿纬锂能). In the past, it always assumed the bottom-side weld marks were unavoidable. In meeting the stringent quality demands of a top global power-tool manufacturer, EVE Energy forced a deeper investigation, and found that the issue hinged on the consistency of weld tensile force, which later led to its technical improvements. Beyond product performance, international customers’ factory audits, which conducted against rigorous standards, also taught Chinese manufacturers production standards, management practices, and project interface practices.
 
 **To sum up, the way China innovates is more “from production to paper”, whereas the U.S. is the reverse.** Chinese manufacturers learn from scratch, using a local-adaptation way to produce and sell, accumulating know-how through large-scale production, as well as backward spillovers from foreign customers.
+
+## References
+
+Lu, Yang, and Congzhi Zhang. *The Heart of Electric Vehicles* (电车之心). Shanghai Translation Publishing House, August 2025.
+
+Volta Foundation. *Battery Report 2024*. 2024. https://volta.foundation/battery-report-2024/download-the-2024-battery-report.
+
+International Energy Agency (IEA). *Global EV Outlook 2025*. 2025. https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries.

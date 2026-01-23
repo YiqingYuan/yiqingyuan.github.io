@@ -37,7 +37,7 @@ format:
 
 **China dominates over ~75% in almost every step of upstream & midstream PV value chain.** And many leading Chinese manufacturers are vertically integrated across multiple steps (e.g., ingot/wafer/cell/module), but only a few are fully end-to-end (polysilicon → module).
 
-![image.png](image%201.png)
+![](image%201.png)
 
 **While for downstream installation, it tends to be more localized.** For example, Nigeria’s solar market is import-dependent upstream but largely localized downstream. For modules, the country relies heavily on imports: by June 2025, Nigeria had imported 1,721 MW of panels from China, making it Africa’s second-largest importer. By contrast, downstream activity is mostly handled by locally-registered firms: among the hundreds of listed installers in Nigeria (source: https://www.enfsolar.com/industry-directory?_gl=1*159svrw*_gcl_au*MTE1NTA2OTgzNS4xNzU5MDQ3MTc2), the vast majority are locally incorporated and headquartered or branched in Lagos, Abuja, or Kaduna. These companies typically cover project development, system design and installation, financing, and after-sales O&M. A minority of players operate via foreign registrations—for example, MBH Power lists a Singapore address for its group entity while maintaining a substantial Nigerian presence and offices in Lagos.
 
@@ -55,7 +55,7 @@ The physical processes underpinning solar photovoltaic (PV) output are intrinsic
 
 The cell temperature depends on ambient conditions (temperature, wind speed, surrounding albedo, irradiation), cell materials, as well as module and plant design. Many of the locations with the highest solar potential also correspond to some of the warmest locations on the planet. Hence, the choice of location, adaption measures to local conditions, and mitigation of rising temperatures cannot be understated. Some measures have already been implemented while others are the subject of active research. There is a lot focus on **improving cell design and materials**, for example with **N-type cells being less sensitive to temperature**. Some cooling methods are already well understood like **wind convection cooling or water cooling**, having been tested in Morocco or the United Arab Emirates amongst others, while more novel ones are being explored like **phase-change materials (PCM), hybrid systems in Malaysia or reflective coatings in Australia**. **Many remain to be widely adopted.**
 
-![image.png](image%202.png)
+![](image%202.png)
 
 ### 2.2 Off-grid vs On-grid
 
@@ -69,7 +69,7 @@ The cell temperature depends on ambient conditions (temperature, wind speed, sur
     
 - Deployment share by country:
     
-    ![image.png](image%203.png)
+    ![](image%203.png)
     
 - Deployment scale and key user countries:
     
@@ -246,7 +246,7 @@ However, the impact of this FDI on the host countries' energy transitions seem t
 
 - **Appropriate Entrepreneurship?**
 
-China's start-ups have attracted more than one-third of global early-stage energy venture capital. There might be a similar story in energy sector as your fantastic "appropriate entrepreneurship"  paper.
+China's start-ups have attracted more than one-third of global early-stage energy venture capital. There might be a similar story in energy sector as in [Appropriate Entrepreneurship: The Rise of China and the Developing World](https://economics.mit.edu/sites/default/files/inline-files/appropriatevc_draft_0.pdf).
 
 - **Belt & Road Initiative cooperative countries**
 
@@ -293,4 +293,4 @@ Key Examples:
 
 ## Appendix: a mind map of different types of solar
 
-![solar.png](solar.png)
+![](solar.png)

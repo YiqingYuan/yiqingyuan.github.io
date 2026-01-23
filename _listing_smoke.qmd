@@ -1,0 +1,6 @@
+---
+title: "Listing smoke"
+listing:
+  contents: "blog/posts/*/"
+  type: grid
+---

@@ -100,3 +100,24 @@ h2 {
   margin-top: 0.9rem;
   margin-bottom: 1.2rem;
 }
+
+/* Research section: mute all link colors */
+#research a {
+  color: inherit;
+}
+
+/* Optional: hover still indicates it’s a link */
+#research a:hover {
+  text-decoration: underline;
+}
+
+/* Only selected links keep theme link color */
+#research a.keep-link-color {
+  color: var(--bs-link-color);
+}
+#research a.keep-link-color:hover {
+  color: var(--bs-link-hover-color);
+}
+.quarto-title-block .description {
+  display: none;
+}
