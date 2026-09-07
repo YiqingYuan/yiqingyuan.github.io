@@ -11,8 +11,6 @@ website:
         href: index.qmd#top
       - text: Research
         href: index.qmd#research
-      - text: CV
-        href: index.qmd#cv
       - text: Blog
         href: blog/
       - text: Contact

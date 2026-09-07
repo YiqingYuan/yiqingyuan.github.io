@@ -30,7 +30,6 @@ I aim to become an applied microeconomist to study technological progress, espec
 
 
 
-[Download CV](cv.pdf){.btn .btn-primary}
 [Email](<mailto:yiqingyuan0909@gmail.com?subject=Contact%20from%20Website>){.btn .btn-outline-secondary}
 
 :::
@@ -91,60 +90,6 @@ I built a novel firm-level panel dataset from the Chinese Fuel and Chemical Indu
 I assisted with a National Natural Science Foundation project on China's environmental regulation and firms’ low-carbon transition. My tasks included translating and proofreading the final manuscript and using Stata for data cleaning, analysis, and visualization based on the U.S. Occupational Information Network ([O*NET](https://www.onetcenter.org/)) database. 
 
 ---
-
-## CV {#cv}
-[View as PDF](cv.pdf)
-
-#### Education 
-
-- **Fudan University** (Sep 2022 – Jun 2026 expected)  
-  B.S. in Mathematical Economics  
-  - GPA: 3.85/4.0 (class rank 2/23; school rank top 5%)
-
-- **Harvard University** (Jan 2025 – May 2025)  
-  Visiting Undergraduate Student
-
-
-#### Coursework 
-
-- **Mathematics & Statistics:** Introductory Real Analysis; Stochastic Processes; Probability Theory and Mathematical Statistics; Differential Equations; Linear Algebra; Advanced Mathematics  
- - **Economics:** Econometrics; Econometric Analysis of Cross Section and Panel Data; Applied Time Series Analysis; Intermediate Microeconomics; Macroeconomics; Corporate Finance; International Economics; Public Economics; Development Economics; Economic History; [Theoretical and Empirical Perspectives of Entrepreneurship (PhD)](https://www.hbs.edu/faculty/Pages/item.aspx?teaching=113); [Political Economy: Institution and Development (PhD)](https://economics.mit.edu/sites/default/files/inline-files/syllabus_773_2025.pdf)
-
-#### Volunteer Work 
-
-- **Winter Teaching Program, Jinyan Primary School**, 01/2024 – 02/2024  
-  Taught primary-school Math Olympiad classes; cultivated students’ interest in mathematics.  
-- **Alumni Outreach, Shengzhou High School**, 01/2024 – 02/2024  
-  Organized alumni to introduce Fudan University and share application/college-life experiences.  
-- **“Letters from Afar” Pen-Pal Program**, 04/2024 – 06/2024  
-  Exchanged letters with high school students; shared study advice and broader perspectives.  
-
-
-#### Honors and Awards 
-
-- **Honors Program Overseas Exchange Scholarship (5k USD)**, 2025  
-- **Xinpu Reading Scholarship**, 2023–2024  
-- **Third Prize, Fudan University Scholarship for Outstanding Students**, 2022–2023  
-- **First Prize, Mathematics Competition of National College Students (Shanghai Division)**, 2023  
-  *(Ranked 7th among non-mathematics participants)*  
-- **Second Prize, “Qie Wen Jin Si Cup” (Fudan University Academic Innovation Challenge)**, 2024  
-
-
-#### Skills 
-
-- **Languages:** Mandarin Chinese (native), English (fluent, GRE V160+Q170, TOEFL 111)  
-- **Computer:** Stata, Python, SQL, R, LaTeX  
-
-
-#### Personal Interests 
-
-- Running  
-- Yoga  
-- Yue Opera  
-- Photography  
-
----
-
 
 ## Blog {#blog}
 
